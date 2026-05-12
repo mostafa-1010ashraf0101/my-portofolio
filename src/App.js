@@ -97,7 +97,7 @@ function App() {
         <h2 className="text-4xl font-bold text-white mb-12 text-center">Featured Projects</h2>
         <div className="grid md:grid-cols-3 gap-8">
     <ProjectCard 
-      title="Stanley Café ☕" 
+      title="Stanley Café" 
       desc="Responsive website for a coffee shop. Built with React + Tailwind CSS, deployed on Vercel."
       img="/stanleycafe.png"
       demo="https://stanley-cafe.vercel.app/"
