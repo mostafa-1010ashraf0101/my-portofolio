@@ -60,7 +60,7 @@ function App() {
             {/* الدايرة الزرقة اللي ورا */}
             <div className="absolute w-80 h-80 bg-blue-500/20 rounded-full blur-3xl"></div>
             
-            {/* صورتك فوقها - غيّر اللينك ده بصورتك */}
+            {/* صورتي */}
             <img 
               src="/mostafa.jpg" 
               alt="Mostafa" 
@@ -96,13 +96,13 @@ function App() {
       <section id="projects" className="max-w-6xl mx-auto px-6 py-20 border-t border-slate-800">
         <h2 className="text-4xl font-bold text-white mb-12 text-center">Featured Projects</h2>
         <div className="grid md:grid-cols-3 gap-8">
-          <ProjectCard 
-            title="Restaurant Landing Page" 
-            desc="React + Tailwind. Fast, responsive, SEO ready."
-            img="https://placehold.co/600x400/1e293b/3b82f6?text=Restaurant+Site"
-            demo="#"
-            github="#"
-          />
+    <ProjectCard 
+      title="Stanley Café ☕" 
+      desc="Responsive website for a coffee shop. Built with React + Tailwind CSS, deployed on Vercel."
+      img="/stanleycafe.png"
+      demo="https://stanley-cafe.vercel.app/"
+      github="https://github.com/mostafa-1010ashraf0101/stanley-cafe"
+    />
           <ProjectCard 
             title="Store Dashboard UI" 
             desc="Admin panel for managing products & orders with charts."
