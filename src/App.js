@@ -103,13 +103,13 @@ function App() {
       demo="https://stanley-cafe.vercel.app/"
       github="https://github.com/mostafa-1010ashraf0101/stanley-cafe"
     />
-          <ProjectCard 
-            title="Store Dashboard UI" 
-            desc="Admin panel for managing products & orders with charts."
-            img="https://placehold.co/600x400/1e293b/a855f7?text=Dashboard+UI"
-            demo="#"
-            github="#"
-          />
+<ProjectCard 
+  title="Sneaker E-Store" 
+  desc="Full-stack E-commerce platform featuring product catalog, shopping cart, wishlist, and responsive design. Inspired by Nike's UI/UX."
+  img="/sneaker-mockup-combined.png"
+  demo="https://sneaker-estore.vercel.app/"
+  github="https://github.com/mostafa-1010ashraf0101/sneaker-store"
+/>
           <ProjectCard 
             title="Personal Portfolio" 
             desc="This website. Clean code, dark mode, fully responsive."
