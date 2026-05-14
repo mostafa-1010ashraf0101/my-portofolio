@@ -110,13 +110,13 @@ function App() {
   demo="https://sneaker-estore.vercel.app/"
   github="https://github.com/mostafa-1010ashraf0101/sneaker-store"
 />
-          <ProjectCard 
-            title="Personal Portfolio" 
-            desc="This website. Clean code, dark mode, fully responsive."
-            img="https://placehold.co/600x400/1e293b/ffffff?text=Portfolio"
-            demo="#"
-            github="#"
-          />
+<ProjectCard 
+  title="SneakerHub Admin Dashboard" 
+  desc="Full-featured admin panel with analytics, charts, orders table, search & filters. Dark mode, responsive, built with React + Recharts."
+  img="/sneakerhub-dashboard.png" 
+  demo="https://sneakerhub-dashboard.vercel.app"
+  github="https://github.com/mostafa-1010ashraf0101/dashboard"
+/>
         </div>
       </section>
 
